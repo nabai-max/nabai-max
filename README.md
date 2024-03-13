@@ -13,7 +13,7 @@ With over 8 years of motivated, detail-oriented, and responsible experience in d
 
 Graduated with an M.S. in Integrated Marketing from **New York University** and currently a Ph.D. Candidate in Data Sciences at **Harrisburg University of Science & Technology**. My dissertation delves into how artificial intelligence can revolutionize marketing strategies, aiming to merge AI with marketing to uncover new levels of efficiency and personalization. I'm captivated by the power of data to tell stories and drive innovation. Continuously seeking to expand my knowledge and capabilities in data science, I aim to harness data in novel ways to illuminate paths forward in marketing and beyond.
 
-**Programming:** SQL, R, Python (Pandas, NumPy, Matplotlib), Hadoop  
+**Programming:** SQL, R, Python (Pandas, NumPy, Matplotlib, Seaborn, TensorFlow, SciKit-Learn,PyTorc), Hadoop  
 **Certifications:** Proficient in Google Analytics, advanced analytics, and machine learning applications  
 **Tools:** Tableau, Datorama, Google Adwords, Facebook Ads Manager, and more  
 **Statistics & Machine Learning:** Expert in A/B Testing, Marketing Mix Modeling (MMM), statistical analysis, machine learning, and deep learning techniques
