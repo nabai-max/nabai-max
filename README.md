@@ -27,11 +27,11 @@ Graduated with an M.S. in Integrated Marketing from **New York University** and 
 
 **Research Experience**
 
-- Conducted market basket analysis for the **Pennsylvania Liquor Control Board**, boosting revenue and refining marketing strategies through advanced analytics
+- Conducted market basket analysis for the **Pennsylvania Liquor Control Board**, boosting revenue and refining marketing strategies through advanced analytics and machine learning.
 
 **Business Intelligence**
 
-- Pioneered the integration of marketing mix models at **INITIATIVE**, enhancing marketing strategies for 10+ client product lines
+- Pioneered the integration of **Marketing Mix Models** at **INITIATIVE**, enhancing marketing strategies for 10+ client product lines
 
 My dissertation represents a pivotal journey into combining the realms of marketing and AI to not only predict consumer behavior more accurately but also to create more personalized and effective marketing strategies. 
 
